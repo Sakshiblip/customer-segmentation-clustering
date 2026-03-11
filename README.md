@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sakshiblip/customer-segmentation-clustering/blob/main/customer_segmentation_with_clustering.ipynb)
+
 # Smart Segmentation: Unlocking Customer Personas with AI 🛍️
 
 This repository contains a data science project focused on market basket analysis and customer behavior. By applying unsupervised machine learning techniques, this project identifies distinct customer segments to help businesses tailor their marketing strategies and improve customer retention.
